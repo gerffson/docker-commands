@@ -4,7 +4,7 @@ Docker é um software contêiner da empresa Docker, Inc, que fornece uma camada 
 
 
 ```sh
-$ docker run -it rhel7/rhel bash 
+$ docker run hello-world 
 
 ```
 
